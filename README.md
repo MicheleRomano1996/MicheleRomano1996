@@ -6,6 +6,9 @@
   * romano.michele1996@outlook.it 
   * https://www.linkedin.com/in/michele-romano96/
 
+- [Link to Google](https://www.google.com)
+
+
 <!---
 MicheleRomano1996/MicheleRomano1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
