@@ -1,4 +1,4 @@
-- 🌞 Hi, I’m Michele Romano, graduated in astrophysics and a aerospace engineering student
+- 🌞 Hi, I’m Michele Romano, an aerospace engineering student and graduated in astrophysics 
 - 👀 Interested in Data Science and Artificial Intelligence
 - ⚡ Looking for a job as a Junior Data Scientist
 - 🍁 Data projects: regression and classification tasks, time series forecasting, sentiment analysis
