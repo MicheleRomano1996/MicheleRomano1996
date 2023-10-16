@@ -5,7 +5,6 @@
 - 🐝 How to reach me: 
   * romano.michele1996@outlook.it 
   * https://www.linkedin.com/in/michele-romano96/
-  * [Link to CV](https://github.com/MicheleRomano1996/MicheleRomano1996/blob/main/CV.pdf)
 
 
 <!---
